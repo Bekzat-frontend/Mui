@@ -36,11 +36,7 @@ function App() {
       <TextField variant="outlined" label="Outlined Input" />
       <TextField variant="filled" label="Filled Input" />
       <TextField variant="standard" label="Standard Input" />
-      {/* <TextField
-        variant="outlined"
-        label="Your Name"
-        placeholder="Enter your name"
-      /> */}
+   
       <TextField variant="outlined" placeholder="text" label="you" />
       <Button
         variant="contained"
