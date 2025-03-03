@@ -41,7 +41,7 @@ function App() {
         label="Your Name"
         placeholder="Enter your name"
       />
-      <TextField variant="outlined" placeholder="text" label="you" />
+
       <Button
         variant="contained"
         color="primary"
