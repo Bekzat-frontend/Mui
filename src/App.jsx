@@ -41,7 +41,11 @@ function App() {
         label="Your Name"
         placeholder="Enter your name"
       />
-      <TextField variant="outlined" placeholder="text" label="you text" />
+      <TextField
+        variant="outlined"
+        placeholder="телефон "
+        label="написать текст"
+      />
       <Button
         variant="contained"
         color="primary"
