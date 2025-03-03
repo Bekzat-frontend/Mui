@@ -33,7 +33,9 @@ function App() {
         Outlined
       </Button>
       <Button variant="text">Text</Button>
-
+      <TextField variant="outlined" label="Outlined Input" />
+      <TextField variant="filled" label="Filled Input" />
+      <TextField variant="standard" label="Standard Input" />
       {/* <TextField
         variant="outlined"
         label="Your Name"
