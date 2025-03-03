@@ -54,7 +54,9 @@ function App() {
       >
         Custom Styled Button
       </Button>
-      <Button variant="outlined ">click</Button>
+      <Button variant="outlined " color="primary">
+        click
+      </Button>
     </>
   );
 }
